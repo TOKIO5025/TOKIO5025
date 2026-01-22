@@ -3,8 +3,8 @@
 <h1 align="center">✨ TOKIO5025 ✨</h1>
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=Oe421EPjeBE](https://github.com/user-attachments/assets/a87b161e-ac4f-4a6c-ab30-af0461edb50c)" target="_blank">
-    <img src="[https://img.youtube.com/vi/Oe421EPjeBE/maxresdefault.jpg](https://github.com/user-attachments/assets/a87b161e-ac4f-4a6c-ab30-af0461edb50c)" width="400" alt="Video preview"/>
+  <a href="[https://www.youtube.com/watch?v=Oe421EPjeBE]()" target="_blank">
+    <img src="[https://github.com/user-attachments/assets/a87b161e-ac4f-4a6c-ab30-af0461edb50c](https://github.com/user-attachments/assets/a87b161e-ac4f-4a6c-ab30-af0461edb50c)" width="400" alt="Video preview"/>
     <br>
     🔥 Haz clic para ver el video 🔥
   </a>
